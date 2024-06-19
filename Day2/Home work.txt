@@ -1,0 +1,6 @@
+1) what is mean by 32bit and 64 bit?
+ the number of bits used to represent memory addresses and data values in a computer. 
+ 64-bit systems offer more memory addressability, processing power, and are generally 
+ better suited for modern computing tasks, while 32-bit systems are still sufficient 
+ for many everyday tasks, but may have limitations when it comes to memory and processing 
+ power.

@@ -1,0 +1,14 @@
+my=dict()
+my=dict(one=1,two=2,three=3)
+print(my)
+my1=my.copy()
+print(my1)
+my1.clear()
+print(my1)
+key=['one','two','three']
+values=0
+my2=dict.fromkeys(key,values)
+print(my2)
+print(my2.get('one'))
+l=dict(one=1,two=2,three=3)
+print(l.get('one'))

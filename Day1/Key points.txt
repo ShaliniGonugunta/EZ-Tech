@@ -1,0 +1,30 @@
+Key points:
+1. It's easy to learn
+2. OOP's
+3. No need to declare the variable and no need to declare with a specific data type  
+space complexity:
+The amount of space taken in CPU by your program 
+Time complexity:
+The amount of time dedicated by the CPU to solve the given problem
+Efficiency:
+Taking less Space and less time to solve the problem
+we are not using sorting techniques as sort technique is built in function.
+Tc/Sc
+Searching: Linear O(n), Binary O(log(n)) 
+Sorting: Quick O(n*log(n)), Merge O(n*log(n)) (pakka Question in technical round), Bubble
+
+Home work:
+which is the best out of merge and quick which has same time and why?
+
+
+Data types:
+int, float, tuple, bool, set, dic, list, str, set.
+
+
+tomorrow's agenda:
+1. Functions
+2. Recursions
+3. Tuple
+4. list (imp)
+5. dic
+6. Sets
